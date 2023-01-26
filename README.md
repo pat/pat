@@ -2,8 +2,8 @@
 
 * 🌏 Based in Narrm (also known as Melbourne, Australia)
 * 👨🏼‍💻 Pronouns are he/him
-* 🕸️ Working on the web for almost 25 years.
-* ❤️ Coding in Ruby for close to 20 years.
+* 🕸️ Working on the web for over 20 years.
+* ❤️ Coding in Ruby for over 15 years.
 * ✍🏻 Occasionally writing blog posts at https://freelancing-gods.com
 * 🤔 Posting regularly to <a rel="me" href="https://hachyderm.io/@pat">Mastodon</a>
 * 📆 Built [Calm Calendar](https://calmcalendar.com) and [Flying Sphinx](https://info.flying-sphinx.com)
